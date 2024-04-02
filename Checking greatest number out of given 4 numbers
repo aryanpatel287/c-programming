@@ -1,3 +1,4 @@
+//checking the greatest number from given 4 numbers 
 #include <stdio.h>
 
 int main()
